@@ -1,5 +1,6 @@
 
 var soljsonSources = [
+  "soljson-v0.8.35-pre.1+commit.a99b6d8c.js",
   "soljson-v0.8.35-nightly.2026.3.11+commit.9f4d0b87.js",
   "soljson-v0.8.35-nightly.2026.3.9+commit.63131344.js",
   "soljson-v0.8.35-nightly.2026.3.5+commit.61baed53.js",
