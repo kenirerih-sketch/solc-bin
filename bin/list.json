@@ -23617,6 +23617,18 @@
       ]
     },
     {
+      "path": "soljson-v0.8.35-nightly.2026.3.23+commit.b8cb7c34.js",
+      "version": "0.8.35",
+      "prerelease": "nightly.2026.3.23",
+      "build": "commit.b8cb7c34",
+      "longVersion": "0.8.35-nightly.2026.3.23+commit.b8cb7c34",
+      "keccak256": "0xea59c0743db99ac9f3d0281edde4a5cb3cacd49ff93733e502d5fa02cf658565",
+      "sha256": "0xccb757eb73cd12f788120f3884bbbd6bb46aa981a7d36801c693681a7226374a",
+      "urls": [
+        "dweb:/ipfs/Qma1PF1ho1ztJW8BbcM2PoXGvEMdFjeURN74Gd68LbzEY3"
+      ]
+    },
+    {
       "path": "soljson-v0.8.35-pre.1+commit.a99b6d8c.js",
       "version": "0.8.35",
       "prerelease": "pre.1",
