@@ -1,4 +1,5 @@
 soljson-v0.8.35-pre.1+commit.a99b6d8c.js
+soljson-v0.8.35-nightly.2026.4.16+commit.5b79872b.js
 soljson-v0.8.35-nightly.2026.4.15+commit.28d6217c.js
 soljson-v0.8.35-nightly.2026.4.13+commit.cc58705d.js
 soljson-v0.8.35-nightly.2026.4.8+commit.1993ed67.js
