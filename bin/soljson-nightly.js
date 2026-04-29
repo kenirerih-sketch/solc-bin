@@ -1,1 +1,1 @@
-soljson-v0.8.35-pre.1+commit.a99b6d8c.js
+soljson-v0.8.35+commit.47b9dedd.js
